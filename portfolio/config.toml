@@ -2,7 +2,7 @@
 baseURL = "http://demo.gethugothemes.com/kross/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "portfolio"
+theme = "PavanaPortfolio"
 title = "Pavana"
 
 # css plugins
